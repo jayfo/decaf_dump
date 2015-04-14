@@ -1,0 +1,12 @@
+# virtualenv directory
+env27
+env34
+
+# Python compiled files
+*.pyc
+
+# Pycharm files
+.idea
+
+# Our secrets
+secrets
